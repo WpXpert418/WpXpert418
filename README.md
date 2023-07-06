@@ -6,6 +6,12 @@
 - 💬 Ask me about **WordPress issues**
 
 - 📫 How to reach me **qamar418418office@gmail.com**
+<h3 align="left">Work Experiance:</h3>
+<p align="left">
+<a href="https://nexco.com.au/" target="blank"></a>
+<a href="https://themoftah.com/" target="blank"></a>
+<a href="https://metav.portseagames.com/" target="blank"></a>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/https://www.youtube.com/results?search_query=wpxpert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/results?search_query=wpxpert" height="30" width="40" /></a>
