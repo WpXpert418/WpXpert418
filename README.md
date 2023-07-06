@@ -8,9 +8,10 @@
 - 📫 How to reach me **qamar418418office@gmail.com**
 <h3 align="left">Work Experiance:</h3>
 <p align="left">
-<a href="https://nexco.com.au/" target="blank"></a>
-<a href="https://themoftah.com/" target="blank"></a>
-<a href="https://metav.portseagames.com/" target="blank"></a>
+  Few websites which i have developed as below:<br>
+<a href="https://nexco.com.au/" target="blank">https://nexco.com.au/</a>
+<a href="https://themoftah.com/" target="blank">https://themoftah.com/</a>
+<a href="https://metav.portseagames.com/" target="blank">https://metav.portseagames.com/</a>
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
