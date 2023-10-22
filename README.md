@@ -13,6 +13,9 @@
 <a href="https://themoftah.com/" target="blank">https://themoftah.com/</a><br>
 <a href="https://metav.portseagames.com/" target="blank">https://metav.portseagames.com/</a><br>
 <a href="https://regentstreetcapital.com/" target="blank">https://regentstreetcapital.com/</a><br>
+<a href="https://regentstreetcapital.com/" target="blank">https://nistonline.pk/</a><br>
+<a href="https://regentstreetcapital.com/" target="blank">https://outspokenvisions.com/</a><br>
+<a href="https://regentstreetcapital.com/" target="blank">jamaicancoffeeclub.com</a><br>
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
