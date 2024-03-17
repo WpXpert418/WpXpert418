@@ -15,6 +15,7 @@
 <a href="https://outspokenvisions.com/" target="blank">https://outspokenvisions.com/</a><br>
 <a href="https://jamaicancoffeeclub.com/" target="blank">https://jamaicancoffeeclub.com/</a><br>
 <a href="https://nextgradesystems.com/" target="blank">https://nextgradesystems.com/</a><br>
+<a href="https://blogdiversity.com/" target="blank">https://blogdiversity.com/</a><br>
 <a href="https://patchesstore.us" target="blank">https://patchesstore.us</a><br>
 <a href="https://nexco.com.au/" target="blank">https://nexco.com.au/</a><br>
 <a href="https://modazona.com/" target="blank">https://modazona.com/</a><br>
@@ -22,7 +23,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.youtube.com/channel/UCGXGCM38hirMVLAFBl558fw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/results?search_query=wpxpert" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/results?search_query=wpxpert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/results?search_query=wpxpert" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <img src="https://static.cdnlogo.com/logos/w/65/wordpress.svg" alt="cplusplus" width="40" height="40"/>
