@@ -9,10 +9,15 @@
 <h3 align="left">Work Experiance:</h3>
 <p align="left">
   Few websites which i have developed as below:<br>
+<a href="https://kootoys.com/" target="blank">https://kootoys.com/</a><br>
+<a href="https://nistonline.pk/" target="blank">https://nistonline.pk/</a><br>
+<a href="https://nsricvisa.com/" target="blank">https://nsricvisa.com/</a><br>
+<a href="https://outspokenvisions.com/" target="blank">https://outspokenvisions.com/</a><br>
+<a href="https://jamaicancoffeeclub.com/" target="blank">https://jamaicancoffeeclub.com/</a><br>
+<a href="https://nextgradesystems.com/" target="blank">https://nextgradesystems.com/</a><br>
+<a href="https://patchesstore.us" target="blank">https://patchesstore.us</a><br>
 <a href="https://nexco.com.au/" target="blank">https://nexco.com.au/</a><br>
-<a href="https://themoftah.com/" target="blank">https://themoftah.com/</a><br>
-<a href="https://metav.portseagames.com/" target="blank">https://metav.portseagames.com/</a><br>
-<a href="https://regentstreetcapital.com/" target="blank">https://regentstreetcapital.com/</a><br>
+<a href="https://modazona.com/" target="blank">https://modazona.com/</a><br>
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
