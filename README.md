@@ -6,27 +6,47 @@
 - 💬 Ask me about **WordPress issues**
 
 - 📫 How to reach me **qamar418418office@gmail.com**
-<h3 align="left">Work Experiance:</h3>
+
+<h3 align="left">Work Experience:</h3>
 <p align="left">
   Few websites which i have developed as below:<br>
-<a href="https://kootoys.com/" target="blank">https://kootoys.com/</a><br>
-<a href="https://nistonline.pk/" target="blank">https://nistonline.pk/</a><br>
-<a href="https://nsricvisa.com/" target="blank">https://nsricvisa.com/</a><br>
-<a href="https://outspokenvisions.com/" target="blank">https://outspokenvisions.com/</a><br>
-<a href="https://jamaicancoffeeclub.com/" target="blank">https://jamaicancoffeeclub.com/</a><br>
-<a href="https://nextgradesystems.com/" target="blank">https://nextgradesystems.com/</a><br>
-<a href="https://blogdiversity.com/" target="blank">https://blogdiversity.com/</a><br>
-<a href="https://patchesstore.us" target="blank">https://patchesstore.us</a><br>
-<a href="https://nexco.com.au/" target="blank">https://nexco.com.au/</a><br>
-<a href="https://modazona.com/" target="blank">https://modazona.com/</a><br>
+  <a href="https://sanafaqir.com" target="blank">https://sanafaqir.com</a><br>
+  <a href="https://sharedevision.com" target="blank">https://sharedevision.com</a><br>
+  <a href="https://sparkproelectricllc.com" target="blank">https://sparkproelectricllc.com</a><br>
+  <a href="https://inspiretaxconsultancy.ae" target="blank">https://inspiretaxconsultancy.ae</a><br>
+  <a href="https://nwautocollisioninc.com" target="blank">https://nwautocollisioninc.com</a><br>
+  <a href="https://techeasesol.com" target="blank">https://techeasesol.com</a><br>
+  <a href="https://silverantmarketing.com" target="blank">https://silverantmarketing.com</a><br>
+  <a href="https://tomkenvet.ca" target="blank">https://tomkenvet.ca</a><br>
+  <a href="https://www.bramptonveterinarian.com" target="blank">https://www.bramptonveterinarian.com</a><br>
 </p>
+
+<h3 align="left">My Latest Figma to WordPress Project:</h3>
+<p align="left">
+  🎨 Figma Design: <a href="https://www.figma.com/design/YjOPgxI90MxVrzfxlCvgcJ/EXOA?node-id=0-1&p=f" target="blank">Figma Link</a><br>
+  🌐 Live Website: <a href="https://www.agence-exoa.com/" target="blank">https://www.agence-exoa.com/</a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.youtube.com/channel/UCGXGCM38hirMVLAFBl558fw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/results?search_query=wpxpert" height="30" width="40" /></a>
 </p>
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://static.cdnlogo.com/logos/w/65/wordpress.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>   </p>
+<p align="left"> 
+  <img src="https://static.cdnlogo.com/logos/w/65/wordpress.svg" alt="wordpress" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>      
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>    
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>    
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>    
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>   
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>   
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>   
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>   
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wpxpert418&show_icons=true&locale=en" alt="wpxpert418" /></p>
 
